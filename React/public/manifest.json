@@ -1,0 +1,15 @@
+{
+  "short_name": "Bank App",
+  "name": "Dollars Bank App V1",
+  "icons": [
+    {
+      "src": "bankLogo.png",
+      "type": "image/png",
+      "sizes": "63x50"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
