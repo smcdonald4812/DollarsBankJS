@@ -1,0 +1,1 @@
+This Service acts as the middleware between the front end React App and the MySQL database.
